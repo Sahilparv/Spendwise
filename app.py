@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly as px
 from datetime import datetime
 import os
 
@@ -81,4 +81,5 @@ with col2:
 
 st.markdown("---")
 st.subheader("📋 History")
+
 st.dataframe(df.sort_values('Date', ascending=False), use_container_width=True)
