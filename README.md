@@ -1,5 +1,9 @@
 # SpendWise: Personal Expense Tracker 💰
 
+**Live Demo:** [🚀 Click here to try the app!](https://spendwise-sah.streamlit.app)
+
+---
+
 A sleek, functional, and persistent expense tracking application built with **Python**, **Streamlit**, and **Pandas**.
 
 ## 🚀 Overview
@@ -19,5 +23,10 @@ I built SpendWise to help users manage their daily finances with ease. Unlike ba
 
 ## 📂 Installation & Usage
 1. Clone the repo:
+
+
+
+
    ```bash
+
    git clone [https://github.com/YOUR_USERNAME/spendwise.git](https://github.com/YOUR_USERNAME/spendwise.git)
